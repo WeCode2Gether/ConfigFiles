@@ -1,0 +1,19 @@
+2024-12-27 16:54:10.903 [info] Extension host with pid 495077 started
+2024-12-27 16:54:10.973 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-27 16:54:10.978 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-27 16:54:11.046 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-27 16:54:11.111 [info] Eager extensions activated
+2024-12-27 16:54:11.121 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 16:54:11.123 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 16:54:27.503 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-27 16:54:27.506 [info] Extension host with pid 495077 exiting with code 0
+2024-12-27 16:54:28.324 [info] Extension host with pid 495177 started
+2024-12-27 16:54:28.324 [info] Skipping acquiring lock for /home/taciturn/.config/Code - OSS/User/workspaceStorage/45a58147f92549b71869b7045b2c2bd9.
+2024-12-27 16:54:28.377 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-12-27 16:54:28.414 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-27 16:54:28.444 [info] Eager extensions activated
+2024-12-27 16:54:28.472 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 16:54:28.474 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 16:54:30.811 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-12-27 16:54:30.946 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-27 16:54:31.056 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

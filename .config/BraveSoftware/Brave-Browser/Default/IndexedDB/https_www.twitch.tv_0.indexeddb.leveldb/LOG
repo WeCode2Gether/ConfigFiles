@@ -1,0 +1,6 @@
+2025/01/15-01:27:40.153 4edf Creating DB /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2025/01/15-01:27:40.177 4edf Reusing MANIFEST /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/15-01:28:12.212 4ee1 Level-0 table #5: started
+2025/01/15-01:28:12.218 4ee1 Level-0 table #5: 856 bytes OK
+2025/01/15-01:28:12.228 4ee1 Delete type=0 #3
+2025/01/15-01:28:12.228 4ee1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

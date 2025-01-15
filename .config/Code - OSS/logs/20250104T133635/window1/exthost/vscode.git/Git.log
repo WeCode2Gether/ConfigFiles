@@ -1,0 +1,68 @@
+2025-01-04 13:36:36.931 [info] [main] Log level: Info
+2025-01-04 13:36:36.931 [info] [main] Validating found git in: "git"
+2025-01-04 13:36:36.931 [info] [main] Using git "2.47.1" from "git"
+2025-01-04 13:36:36.931 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-04 13:36:36.931 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-04 13:36:36.931 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-04 13:36:36.931 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-04 13:36:36.936 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-01-04 13:36:36.949 [info] [Model][openRepository] Opened repository: /home/taciturn/Desktop/WeCode2Gether/Odin-recipes
+2025-01-04 13:36:36.961 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-04 13:36:36.962 [info] > git config --get commit.template [6ms]
+2025-01-04 13:36:36.989 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2025-01-04 13:36:36.992 [info] [Model][openRepository] Opened repository: /home/taciturn/Desktop/WeCode2Gether/css-exercises
+2025-01-04 13:36:37.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-01-04 13:36:37.015 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/taciturn/Desktop/WeCode2Gether/Odin-recipes/.git/refs/remotes/origin/main'
+2025-01-04 13:36:37.018 [info] > git rev-parse --show-toplevel [9ms]
+2025-01-04 13:36:37.019 [info] > git config --get commit.template [11ms]
+2025-01-04 13:36:37.022 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-01-04 13:36:37.033 [info] > git status -z -uall [8ms]
+2025-01-04 13:36:37.034 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2025-01-04 13:36:37.037 [info] [Model][openRepository] Opened repository: /home/taciturn/Desktop/WeCode2Gether/git_test
+2025-01-04 13:36:37.037 [info] [Model][doInitialScan] Initial repository scan completed - repositories (3), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-04 13:36:37.041 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-01-04 13:36:37.042 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2025-01-04 13:36:37.055 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/taciturn/Desktop/WeCode2Gether/css-exercises/.git/refs/remotes/origin/main'
+2025-01-04 13:36:37.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-01-04 13:36:37.062 [info] > git config --get commit.template [21ms]
+2025-01-04 13:36:37.064 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-01-04 13:36:37.068 [info] > git config --get commit.template [9ms]
+2025-01-04 13:36:37.068 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2025-01-04 13:36:37.078 [info] > git status -z -uall [7ms]
+2025-01-04 13:36:37.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [11ms]
+2025-01-04 13:36:37.122 [info] > git merge-base refs/heads/main refs/remotes/origin/main [41ms]
+2025-01-04 13:36:37.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2025-01-04 13:36:37.126 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2025-01-04 13:36:37.137 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-01-04 13:36:37.140 [info] > git diff --name-status -z --diff-filter=ADMR 19658c233a62b951f50ce64e05a28aba0b205f44...refs/remotes/origin/main [15ms]
+2025-01-04 13:36:37.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-01-04 13:36:37.145 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/taciturn/Desktop/WeCode2Gether/Odin-recipes/.git/refs/remotes/origin/main'
+2025-01-04 13:36:37.145 [info] > git config --local branch.main.vscode-merge-base [5ms]
+2025-01-04 13:36:37.148 [info] > git config --get commit.template [12ms]
+2025-01-04 13:36:37.150 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-01-04 13:36:37.153 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2025-01-04 13:36:37.169 [info] > git status -z -uall [13ms]
+2025-01-04 13:36:37.169 [info] > git status -z -uall [7ms]
+2025-01-04 13:36:37.169 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2025-01-04 13:36:37.173 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-04 13:36:37.173 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-01-04 13:36:37.179 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2025-01-04 13:36:37.184 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/taciturn/Desktop/WeCode2Gether/css-exercises/.git/refs/remotes/origin/main'
+2025-01-04 13:36:37.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-01-04 13:36:37.190 [info] > git diff --name-status -z --diff-filter=ADMR efcc840d20e6d39d81dbcda45bb0581aeee20c9e...refs/remotes/origin/main [18ms]
+2025-01-04 13:36:37.191 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-01-04 13:36:37.194 [info] > git config --get commit.template [7ms]
+2025-01-04 13:36:37.194 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2025-01-04 13:36:37.200 [info] > git status -z -uall [3ms]
+2025-01-04 13:36:37.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2025-01-04 13:36:37.208 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-01-04 13:36:37.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-04 13:36:37.212 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2025-01-04 13:36:37.216 [info] > git diff --name-status -z --diff-filter=ADMR 1a025f754d7ab77ee44bd8a389cf4e269e7350d2...refs/remotes/origin/main [1ms]
+2025-01-04 13:36:37.222 [info] > git status -z -uall [3ms]
+2025-01-04 13:36:37.223 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-04 13:36:37.573 [info] > git check-ignore -v -z --stdin [6ms]
+2025-01-04 13:36:37.574 [info] > git check-ignore -v -z --stdin [4ms]
+2025-01-04 13:36:37.574 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-04 13:36:38.615 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-04 13:36:38.615 [info] fatal: not a git repository (or any of the parent directories): .git

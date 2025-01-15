@@ -1,0 +1,29 @@
+2025/01/14-04:45:23.838 bc44 Reusing MANIFEST /home/taciturn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/01/14-04:45:23.843 bc44 Recovering log #80
+2025/01/14-04:45:23.843 bc44 Reusing old log /home/taciturn/.config/discord/Local Storage/leveldb/000080.log 
+2025/01/14-04:46:35.849 bc45 Level-0 table #86: started
+2025/01/14-04:46:35.867 bc45 Level-0 table #86: 66899 bytes OK
+2025/01/14-04:46:35.871 bc45 Delete type=0 #80
+2025/01/14-06:33:37.365 bc45 Level-0 table #88: started
+2025/01/14-06:33:37.394 bc45 Level-0 table #88: 921685 bytes OK
+2025/01/14-06:33:37.400 bc45 Delete type=0 #85
+2025/01/14-19:36:11.410 bc45 Level-0 table #90: started
+2025/01/14-19:36:11.429 bc45 Level-0 table #90: 72739 bytes OK
+2025/01/14-19:36:11.434 bc45 Delete type=0 #87
+2025/01/14-20:01:08.128 bc67 Level-0 table #92: started
+2025/01/14-20:01:08.147 bc67 Level-0 table #92: 54907 bytes OK
+2025/01/14-20:01:08.152 bc67 Delete type=0 #89
+2025/01/14-20:01:08.152 bc67 Compacting 4@0 + 2@1 files
+2025/01/14-20:01:08.167 bc67 Generated table #93@0: 23 keys, 2452084 bytes
+2025/01/14-20:01:08.182 bc67 Generated table #94@0: 91 keys, 3369954 bytes
+2025/01/14-20:01:08.183 bc67 Compacted 4@0 + 2@1 files => 5822038 bytes
+2025/01/14-20:01:08.187 bc67 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/01/14-20:01:08.187 bc67 Delete type=2 #86
+2025/01/14-20:01:08.187 bc67 Delete type=2 #83
+2025/01/14-20:01:08.187 bc67 Delete type=2 #82
+2025/01/14-20:01:08.187 bc67 Delete type=2 #90
+2025/01/14-20:01:08.187 bc67 Delete type=2 #92
+2025/01/14-20:01:08.187 bc67 Delete type=2 #88
+2025/01/15-01:16:00.242 bc45 Level-0 table #96: started
+2025/01/15-01:16:00.260 bc45 Level-0 table #96: 65460 bytes OK
+2025/01/15-01:16:00.265 bc45 Delete type=0 #91

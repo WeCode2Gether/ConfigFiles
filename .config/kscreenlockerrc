@@ -1,0 +1,7 @@
+[Daemon]
+Autolock=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/taciturn/Desktop/Themes/Pictures/solo-leveling-sung-3840x2160-17277.jpg
+PreviewImage=/home/taciturn/Desktop/Themes/Pictures/solo-leveling-sung-3840x2160-17277.jpg

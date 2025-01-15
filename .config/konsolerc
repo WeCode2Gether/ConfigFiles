@@ -1,0 +1,14 @@
+MenuBar=Disabled
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Enabled
+ToolBarsMovable=Disabled
+
+[TabBar]
+NewTabButton=true
+
+[UiSettings]
+ColorScheme=

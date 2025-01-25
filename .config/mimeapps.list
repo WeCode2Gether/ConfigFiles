@@ -11,6 +11,8 @@ x-scheme-handler/http=brave-browser.desktop;
 x-scheme-handler/https=brave-browser.desktop;
 x-scheme-handler/mailto=userapp-Thunderbird-RWBFZ2.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-RWBFZ2.desktop;
+image/png=feh.desktop;
+video/mp4=mpv.desktop;vlc.desktop;
 
 [Default Applications]
 application/json=nvim.desktop;
@@ -26,3 +28,5 @@ x-scheme-handler/http=brave-browser.desktop;
 x-scheme-handler/https=brave-browser.desktop;
 x-scheme-handler/mailto=userapp-Thunderbird-RWBFZ2.desktop
 x-scheme-handler/mid=userapp-Thunderbird-RWBFZ2.desktop
+image/png=feh.desktop
+video/mp4=vlc.desktop

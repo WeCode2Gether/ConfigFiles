@@ -1,3 +1,12 @@
-2025/01/15-09:01:49.004 4 Reusing MANIFEST /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2025/01/15-09:01:49.007 4 Recovering log #4
-2025/01/15-09:01:49.007 4 Reusing old log /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2025/01/25-08:02:02.321 4 Reusing MANIFEST /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/01/25-08:02:02.324 4 Recovering log #79
+2025/01/25-08:02:02.324 4 Reusing old log /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000079.log 
+2025/01/25-08:03:03.541 4 Level-0 table #84: started
+2025/01/25-08:03:03.562 4 Level-0 table #84: 31487 bytes OK
+2025/01/25-08:03:03.569 4 Delete type=0 #79
+2025/01/25-08:41:54.015 5 Level-0 table #86: started
+2025/01/25-08:41:54.035 5 Level-0 table #86: 20182 bytes OK
+2025/01/25-08:41:54.043 5 Delete type=0 #83
+2025/01/25-09:19:17.123 4 Level-0 table #88: started
+2025/01/25-09:19:17.145 4 Level-0 table #88: 83800 bytes OK
+2025/01/25-09:19:17.150 4 Delete type=0 #85

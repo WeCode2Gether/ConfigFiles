@@ -10,7 +10,7 @@
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,previewClosed,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=7e92ae10-3eb3-4ec8-b2c4-74b282afdfd4"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="962,43,958,1037"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="960,43,960,1037"/>
       <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="419,171,960,783"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/taciturn/Downloads"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/taciturn/Downloads/kali-linux-2024.4-installer-amd64.iso"/>

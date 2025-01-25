@@ -1,6 +1,0 @@
-#!/bin/zsh
-[ "$1" = "view" ] && {
-  command -v "kitty" > /dev/null || die 3 "\nkitty is not installed\n"
-  kitty +kitten icat --clear --transfer-mode stream
-  kitty +kitten icat --place "${5}x${6}@${3}x${4}" --scale-up --transfer-mode stream "$2"
-}

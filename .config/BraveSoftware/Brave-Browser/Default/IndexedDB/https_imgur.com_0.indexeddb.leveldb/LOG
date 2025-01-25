@@ -1,7 +1,0 @@
-2025/01/25-07:13:04.309 86025 Reusing MANIFEST /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/25-07:13:04.309 86025 Recovering log #3
-2025/01/25-07:13:04.309 86025 Reusing old log /home/taciturn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000003.log 
-2025/01/25-07:13:04.352 86027 Level-0 table #5: started
-2025/01/25-07:13:04.355 86027 Level-0 table #5: 3944 bytes OK
-2025/01/25-07:13:04.359 86027 Delete type=0 #3
-2025/01/25-07:13:04.359 86025 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

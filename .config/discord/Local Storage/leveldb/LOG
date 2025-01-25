@@ -1,9 +1,0 @@
-2025/01/25-09:23:26.261 8deb1 Reusing MANIFEST /home/taciturn/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/01/25-09:23:26.265 8deb1 Recovering log #286
-2025/01/25-09:23:26.265 8deb1 Reusing old log /home/taciturn/.config/discord/Local Storage/leveldb/000286.log 
-2025/01/25-09:24:27.401 8deb2 Level-0 table #290: started
-2025/01/25-09:24:27.419 8deb2 Level-0 table #290: 39869 bytes OK
-2025/01/25-09:24:27.423 8deb2 Delete type=0 #286
-2025/01/25-09:26:26.769 8deb2 Level-0 table #292: started
-2025/01/25-09:26:26.801 8deb2 Level-0 table #292: 862885 bytes OK
-2025/01/25-09:26:26.807 8deb2 Delete type=0 #289

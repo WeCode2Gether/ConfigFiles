@@ -1,8 +1,0 @@
-[Jan 21, 2025 6:30:18.9 AM GMT:ERROR:refill_confirmation_tokens.cc(197)] Failed to get signed tokens
---------------------------------------------------------------------------------
-[Jan 21, 2025 11:08:11.9 AM GMT:ERROR:url_loader.cc(130)] Network error: net::ERR_INTERNET_DISCONNECTED
-[Jan 21, 2025 11:08:11.9 AM GMT:ERROR:get_parameters.cc(145)] Unexpected status code! (HTTP -1)
-[Jan 21, 2025 11:08:11.9 AM GMT:ERROR:url_loader.cc(130)] Network error: net::ERR_INTERNET_DISCONNECTED
-[Jan 21, 2025 11:08:11.9 AM GMT:ERROR:get_wallet.cc(87)] Unexpected status code! (HTTP -1)
-[Jan 21, 2025 11:09:17.9 AM GMT:ERROR:url_loader.cc(130)] Network error: net::ERR_INTERNET_DISCONNECTED
-[Jan 21, 2025 11:09:17.9 AM GMT:ERROR:get_parameters.cc(145)] Unexpected status code! (HTTP -1)

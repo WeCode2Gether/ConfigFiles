@@ -142,7 +142,7 @@
         "CustomRPC": {
             "enabled": true,
             "type": 0,
-            "timestampMode": 0,
+            "timestampMode": 1,
             "appID": "848680129559134228",
             "appName": "Studying",
             "imageBig": "https://i.imgur.com/sG8GAXx.gif",
@@ -585,6 +585,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1737778680828
+        "settingsSyncVersion": 1737786265986
     }
 }

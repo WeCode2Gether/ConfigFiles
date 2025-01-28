@@ -575,6 +575,12 @@
         },
         "SupportHelper": {
             "enabled": true
+        },
+        "IrcColors": {
+            "enabled": false
+        },
+        "BadgeAPI": {
+            "enabled": true
         }
     },
     "notifications": {
@@ -587,6 +593,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1737867336858
+        "settingsSyncVersion": 1738043970790
     }
 }

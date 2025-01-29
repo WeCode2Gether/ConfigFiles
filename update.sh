@@ -17,6 +17,6 @@ cp -r ~/dotfiles/.config/zshrc ~/Desktop/WeCode2Gether/ConfigFiles/zshrc
 cp -r ~/.config/ytfzf ~/Desktop/WeCode2Gether/ConfigFiles/ytfzf
 cp -r ~/.config/Vencord ~/Desktop/WeCode2Gether/ConfigFiles/Vencord
 cp -r ~/dotfiles/.config/ml4w ~/Desktop/WeCode2Gether/ConfigFiles/ml4w
-cp -r ~/Documents/Obsidian\ Vault/ ~/Desktop/WeCode2Gether/Obsidion 
+cp -r ~/Documents/CyberSecurity ~/Desktop/WeCode2Gether/Obsidian 
 cd ~/Desktop/WeCode2Gether/ConfigFiles && git add . && git commit -m "updated $timestamp" && git push
 cd ~/Desktop/WeCode2Gether/Obsidion && git add . && git commit -m "updated $timestamp" && git push

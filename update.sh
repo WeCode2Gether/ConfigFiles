@@ -19,4 +19,4 @@ cp -r ~/.config/Vencord ~/Desktop/WeCode2Gether/ConfigFiles/Vencord
 cp -r ~/dotfiles/.config/ml4w ~/Desktop/WeCode2Gether/ConfigFiles/ml4w
 cp -r ~/Documents/CyberSecurity ~/Desktop/WeCode2Gether/Obsidian 
 cd ~/Desktop/WeCode2Gether/ConfigFiles && git add . && git commit -m "updated $timestamp" && git push
-cd ~/Desktop/WeCode2Gether/Obsidion && git add . && git commit -m "updated $timestamp" && git push
+cd ~/Desktop/WeCode2Gether/Obsidian && git add . && git commit -m "updated $timestamp" && git push

@@ -1,1 +1,1 @@
-/ml4w-blur;/ml4w-blur/black
+/ml4w;/ml4w/black
